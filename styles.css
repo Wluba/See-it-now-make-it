@@ -1,0 +1,34 @@
+* {
+	background-color: #F2EEEB;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+table{
+	font-size: 40px;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	bottom: 0px;
+	position: fixed;
+	letter-spacing: 1px;
+	word-spacing: 3px;
+}
+
+td, a {
+	background-color: #00554a;
+	color: #FFFFFF;
+	height: 90px;
+	width: 33.3%;
+	text-decoration: none;
+}
+
+
+
+#solution {
+	background-color: #00695b;
+}

@@ -1,0 +1,39 @@
+* {
+	font-family: Arial, sans-serif;
+	background-color: #F2EEEB;
+}
+
+table {
+	width: 100%;
+}
+
+div.table {
+    background-color: #00554a;
+	color: #FFFFFF;
+	width: 25%;
+}
+
+#home {
+	background-color: #00695b;
+	width: 40px;
+}
+
+div.body {
+	size: 21cm 29.7cm;
+	display: inline-block;
+	margin: 30mm 45mm 30mm 45mm;
+	box-shadow: 5px 5px 5px 5px #a7a7a7;
+}
+
+div.body, h1, h3, p {
+	background-color: #FFFFFF;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+p{
+	margin-left: 60px;
+	margin-right: 60px;
+}
